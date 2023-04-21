@@ -1,8 +1,8 @@
 {
-  "name": "cloud_programming",
+  "name": "cloud_computing",
   "version": "0.1.0",
   "bin": {
-    "cloud_programming": "bin/cloud_programming.js"
+    "cloud_computing": "bin/cloud_computing.js"
   },
   "scripts": {
     "build": "tsc",
