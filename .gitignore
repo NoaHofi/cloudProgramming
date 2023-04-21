@@ -1,5 +1,7 @@
-.vs
-packages
-bin/
-obj/
-*.cache
+*.js
+!jest.config.js
+*.d.ts
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
